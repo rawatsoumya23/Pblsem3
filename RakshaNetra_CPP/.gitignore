@@ -1,0 +1,4 @@
+   *.exe
+   build/
+   test_save_data/
+   *.tmp
