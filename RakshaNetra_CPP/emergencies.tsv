@@ -1,0 +1,11 @@
+emergency_id	worker_id	zone_id	accident_type	people_affected	trapped	unconscious	status	assigned_team_id
+1	101	5	Electrical	2	0	0	Pending	NULL
+2	101	5	Fire	3	1	0	Pending	NULL
+3	102	4	Collapse	1	1	1	Pending	NULL
+4	103	6	Medical	1	0	1	Pending	NULL
+5	104	6	Fall	1	0	0	Pending	NULL
+6	105	1	Vehicle	2	0	0	Pending	NULL
+7	106	3	Fire	1	0	0	Pending	NULL
+8	NULL	2	Medical	1	0	0	Pending	NULL
+9	107	5	Collapse	2	1	0	Pending	NULL
+10	108	4	Medical	2	0	1	Pending	NULL

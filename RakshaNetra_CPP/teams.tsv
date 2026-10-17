@@ -1,0 +1,9 @@
+team_id	team_name	specialization	availability	base_zone_id	workload
+1	Medical Team 1	Medical	Available	7	0
+2	Medical Team 2	Medical	Available	7	1
+3	Medical Team 3	Medical	Busy	7	2
+4	Fire Rescue Team 1	Fire	Available	8	0
+5	Fire Rescue Team 2	Fire	Available	8	1
+6	Fire Rescue Team 3	Fire	Busy	8	2
+7	General Rescue Team 1	General	Available	1	0
+8	General Rescue Team 2	General	Available	1	1

@@ -1,0 +1,31 @@
+worker_id	name	role	category	zone_id	helmet	vest	boots	id_revoked
+101	Rahul Sharma	Electrician	Worker	5	1	1	1	0
+102	Aman Kumar	Mason	Worker	6	1	1	1	0
+103	Rohit Singh	Helper	Worker	3	1	1	1	0
+104	Vikas Rawat	Supervisor	Staff	2	1	1	1	0
+105	Arjun Negi	Welder	Worker	6	1	1	1	0
+106	Deepak Joshi	Electrician	Worker	5	1	1	1	0
+107	Mohit Bisht	Helper	Worker	3	1	1	1	0
+108	Karan Singh	Machine Operator	Worker	4	1	1	1	0
+109	Sahil Kumar	Mason	Worker	6	1	1	0	0
+110	Naveen Rawat	Crane Operator	Worker	3	1	1	1	0
+111	Sumit Negi	Helper	Worker	3	1	1	1	1
+112	Rakesh Thakur	Site Supervisor	Staff	3	1	1	1	0
+201	Aakash Verma	Electrician	Worker	5	1	1	1	0
+202	Manish Kumar	Mason	Worker	6	1	1	1	0
+203	Vivek Singh	Welder	Worker	6	1	1	1	0
+204	Pankaj Rawat	Helper	Worker	3	1	1	1	0
+205	Ankit Sharma	Machine Operator	Worker	4	1	1	1	0
+206	Ravi Negi	Electrician	Worker	5	1	1	1	0
+207	Harsh Gupta	Helper	Worker	3	1	1	1	0
+208	Gaurav Joshi	Mason	Worker	6	1	1	1	0
+209	Nitin Bisht	Crane Operator	Contractor	3	1	1	1	0
+210	Ajay Rawat	Site Supervisor	Staff	3	1	1	1	0
+301	Rohit Kumar	Electrician	Worker	5	1	1	1	0
+302	Suresh Singh	Mason	Worker	6	1	1	1	0
+303	Yash Negi	Helper	Worker	3	1	1	1	0
+304	Abhishek Rawat	Welder	Worker	6	1	1	1	0
+305	Varun Sharma	Machine Operator	Worker	4	1	1	1	0
+306	Rajat Joshi	Electrician	Worker	5	1	1	1	0
+307	Dev Singh	Helper	Contractor	3	1	1	1	0
+308	Mukul Bisht	Site Supervisor	Staff	3	1	1	1	0
